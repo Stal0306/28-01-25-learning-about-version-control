@@ -1,3 +1,5 @@
-# 28-01-25-learning-about-version-control
+# Learning-about-version-control
 
 Author - Stallon Pinto
+
+Solving merge conflicts is easy!
